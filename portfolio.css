@@ -68,9 +68,6 @@ h2 {
     flex-wrap: wrap;
     justify-content: center;
 }
-#portfolio h2{
-    text-align: center;
-}
 
 .project {
     background: #333;
